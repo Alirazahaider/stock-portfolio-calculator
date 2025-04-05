@@ -1,8 +1,8 @@
 # Next.js Stock Portfolio Calculator
 
-![EMI Calculator Screenshot](./public/screenshot.png)  
+![Stock Portfolio Calculator Screenshot](./public/screenshot.png)  
 
-Live Demo: [emi-calculator-pro.vercel.app](https://emi-calculator-pro.vercel.app)
+Live Demo: [stockfolio-calculator.vercel.app/](https://stockfolio-calculator.vercel.app/)
 
 ## 🚀 Features
 
