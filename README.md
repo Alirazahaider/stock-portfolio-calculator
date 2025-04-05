@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next.js Stock Portfolio Calculator
 
-## Getting Started
+![EMI Calculator Screenshot](./public/screenshot.png)  
 
-First, run the development server:
+Live Demo: [emi-calculator-pro.vercel.app](https://emi-calculator-pro.vercel.app)
 
+## 🚀 Features
+
+### 📝 Portfolio Management
+- Add/edit stocks with ticker symbols (e.g., AAPL), purchase price, date, and notes
+- Real-time current price tracking (API-driven)
+- Bulk actions to update or delete multiple stocks
+
+### 📊 Dashboard Insights
+
+| Metric             | Example Value     |
+|--------------------|-------------------|
+| Total Investment   | $20,475.00       |
+| Current Value      | $54,908.00 (+168.17%) |
+| Best Performer     | FACIL (+604.20%) |
+
+### 📈 Visual Analytics
+- Portfolio Distribution pie chart
+- Profit/Loss Breakdown per stock (with % change)
+
+### 🔧 Interactive UI
+- Search/filter stocks
+- Sort by profit, value, or ticker
+
+## 🛠️ Tech Stack
+- **Frontend:** Next.js + TypeScript
+- **Styling:** Tailwind CSS
+- **Deployment:** Vercel
+
+## 🏁 Quick Start
 ```bash
+git clone https://github.com/Alirazahaider/stock-portfolio-calculator.git
+cd stock-portfolio-tracker
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 💌 Get In Touch
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Thank you for checking out this project! If you have any questions, suggestions, would like to collaborate, or need my development services:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+[![Email](https://img.shields.io/badge/-Email-0e5255?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alicodespace@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e5255?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliraza-online)
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+⭐ Support the project by starring the repository!
+[![GitHub stars](https://img.shields.io/github/stars/Alirazahaider/emi-calculator-pro?style=social)](https://github.com/Alirazahaider/stock-portfolio-calculator)
