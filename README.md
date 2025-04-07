@@ -49,4 +49,4 @@ Thank you for checking out this project! If you have any questions, suggestions,
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0e5255?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alicodez.vercel.app/)
 
 ⭐ Support the project by starring the repository!
-[![GitHub stars](https://img.shields.io/github/stars/Alirazahaider/emi-calculator-pro?style=social)](https://github.com/Alirazahaider/stock-portfolio-calculator)
+[![GitHub stars](https://img.shields.io/github/stars/Alirazahaider/stock-portfolio-calculator?style=social)](https://github.com/Alirazahaider/stock-portfolio-calculator)
