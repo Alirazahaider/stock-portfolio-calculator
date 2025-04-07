@@ -1,8 +1,8 @@
 # Next.js Stock Portfolio Calculator
 
-![EMI Calculator Screenshot](./public/screenshot.png)  
+![Stock Portfolio Calculator Screenshot](./public/screenshot.png)  
 
-Live Demo: [emi-calculator-pro.vercel.app](https://emi-calculator-pro.vercel.app)
+Live Demo: [stockfolio-calculator.vercel.app/](https://stockfolio-calculator.vercel.app/)
 
 ## 🚀 Features
 
@@ -45,7 +45,8 @@ npm run dev
 Thank you for checking out this project! If you have any questions, suggestions, would like to collaborate, or need my development services:
 
 [![Email](https://img.shields.io/badge/-Email-0e5255?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alicodespace@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e5255?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliraza-online)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e5255?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alirazaweb)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0e5255?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alicodez.vercel.app/)
 
 ⭐ Support the project by starring the repository!
 [![GitHub stars](https://img.shields.io/github/stars/Alirazahaider/emi-calculator-pro?style=social)](https://github.com/Alirazahaider/stock-portfolio-calculator)
